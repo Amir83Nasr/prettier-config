@@ -6,6 +6,9 @@
   "type": "module",
   "exports": "./src/index.js",
   "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
   "dependencies": {
     "prettier-plugin-tailwindcss": "^0.6.11"
   },
