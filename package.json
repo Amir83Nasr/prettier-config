@@ -1,0 +1,12 @@
+{
+  "name": "@amir83nasr/prettier-config",
+  "description": "My personal Prettier config",
+  "version": "1.0.0",
+  "author": "Amir Hossein Nasrollahi (Amir83Nasr)",
+  "type": "module",
+  "exports": "./index.js",
+  "license": "MIT",
+  "peerDependencies": {
+    "prettier": ">=3.0.0"
+  }
+}
